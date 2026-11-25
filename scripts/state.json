@@ -1,0 +1,107 @@
+{
+ "fetched": "2026-11-25",
+ "good": {
+  "repos": "2026-11-25"
+ },
+ "sources": {
+  "repos": {
+   "public_repos": 13,
+   "stars": 1,
+   "downloads": 0,
+   "repos": {
+    "aiTesting": {
+     "stars": 0,
+     "downloads": 0,
+     "tag": null,
+     "description": "",
+     "language": ""
+    },
+    "aymenoppa.github.io": {
+     "stars": 0,
+     "downloads": 0,
+     "tag": null,
+     "description": "",
+     "language": "HTML"
+    },
+    "downloader": {
+     "stars": 0,
+     "downloads": 0,
+     "tag": null,
+     "description": "",
+     "language": ""
+    },
+    "jobly": {
+     "stars": 1,
+     "downloads": 0,
+     "tag": null,
+     "description": "",
+     "language": "TypeScript"
+    },
+    "laravel-crudz": {
+     "stars": 0,
+     "downloads": 0,
+     "tag": null,
+     "description": "",
+     "language": ""
+    },
+    "MvpBooks": {
+     "stars": 0,
+     "downloads": 0,
+     "tag": null,
+     "description": "",
+     "language": "Java"
+    },
+    "RestfApi": {
+     "stars": 0,
+     "downloads": 0,
+     "tag": null,
+     "description": "",
+     "language": "JavaScript"
+    },
+    "studentapp": {
+     "stars": 0,
+     "downloads": 0,
+     "tag": null,
+     "description": "Studen Server for the android app",
+     "language": "PHP"
+    },
+    "test": {
+     "stars": 0,
+     "downloads": 0,
+     "tag": null,
+     "description": "",
+     "language": ""
+    },
+    "testanugular": {
+     "stars": 0,
+     "downloads": 0,
+     "tag": null,
+     "description": "",
+     "language": "TypeScript"
+    },
+    "tests": {
+     "stars": 0,
+     "downloads": 0,
+     "tag": null,
+     "description": "",
+     "language": ""
+    },
+    "Todomvp": {
+     "stars": 0,
+     "downloads": 0,
+     "tag": null,
+     "description": "this",
+     "language": "Java"
+    },
+    "TrottiCare-symfony": {
+     "stars": 0,
+     "downloads": 0,
+     "tag": null,
+     "description": "",
+     "language": ""
+    }
+   }
+  }
+ },
+ "years": {}
+}

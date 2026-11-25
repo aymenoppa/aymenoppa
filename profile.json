@@ -1,0 +1,145 @@
+{
+  "_about": "Hand-kept facts for Aymen Labidi's GitHub profile. Live numbers (Jobly stars, public repos, and optional contribution graphs) are fetched by scripts/fetch.py.",
+  "user": "aymenoppa",
+  "name": "Aymen",
+  "full_name": "Aymen Labidi",
+  "role": "cloud & full-stack engineer",
+  "location": "Tunis, Tunisia",
+  "site_host": "aymenlabidi.pro",
+  "terminal_title": "aymen@tunis: ~",
+  "created": "2016-03-28",
+  "show_graphs": false,
+  "tagline": "Sole engineer behind 20+ live SaaS apps. Building open source in public.",
+  "tags": [
+    ["AWS & cloud", "lx"],
+    ["full-stack SaaS", "rd"],
+    ["AI agents & MCP", "x"],
+    ["IoT & open source", "yt"]
+  ],
+  "links": {
+    "linkedin": {
+      "label": "LinkedIn",
+      "handle": "",
+      "url": "https://www.linkedin.com/in/aymen-labidi-b91a40102/"
+    },
+    "jobly": {
+      "label": "Jobly",
+      "handle": "open source",
+      "url": "https://github.com/aymenoppa/jobly"
+    },
+    "email": {
+      "label": "Email",
+      "handle": "contact@aymenlabidi.pro",
+      "url": "mailto:contact@aymenlabidi.pro"
+    },
+    "site": {
+      "label": "aymenlabidi.pro",
+      "handle": "",
+      "url": "https://aymenlabidi.pro"
+    }
+  },
+  "board": {
+    "title": "In production",
+    "subtitle_prefix": "AWS Certified",
+    "subtitle_phone": "AWS Certified",
+    "counters": [
+      {"value": "20+", "label": "live SaaS apps run on AWS", "icon": "cloud"},
+      {"value": "26", "label": "production domains run", "icon": "globe"},
+      {"value": "99.9%", "label": "uptime across US clients", "icon": "flame"},
+      {"value": "~50k", "label": "users on one Laravel CRM", "icon": "trophy"},
+      {"value": "7 yrs", "label": "shipping SaaS", "icon": "calendar"},
+      {"value": "-25%", "label": "cloud spend", "icon": "chart"},
+      {"value": "-75%", "label": "deploy time", "icon": "bolt"}
+    ]
+  },
+  "whoami": {
+    "bio": "I build and run production SaaS on AWS, AI agents, MCP, and IoT.",
+    "stack": "AWS · Docker · GitHub Actions · Linux/Nginx · Laravel · React · TypeScript · Hono · Supabase · ESP32",
+    "now": [
+      "Shipping Jobly: open-source field service app built solo in 14 days",
+      "Running AWS cloud for 3 US companies (20+ apps, 26 domains, 99.9%)",
+      "Finishing telecom & IoT degree (ESPRIT, 2027) · open to EU roles"
+    ]
+  },
+  "apps": [
+    {
+      "id": "jobly",
+      "name": "Jobly",
+      "icon": "icons/jobly.png",
+      "line": "Open-source field service app: quotes, crews, invoicing & portal.",
+      "status": "open source",
+      "chips": [["TypeScript", "lx"], ["Hono + React", "bd"], ["Supabase", "x"]],
+      "fact": ["AGPL-3.0", "built in 14 days", "stars"],
+      "tint": "lx",
+      "url": "https://github.com/aymenoppa/jobly",
+      "repo": "jobly"
+    },
+    {
+      "id": "leadblizzard",
+      "name": "Lead Blizzard",
+      "icon": "icons/leadblizzard.png",
+      "line": "White-label pay-per-lead platform for HighLevel agencies.",
+      "status": "live",
+      "chips": [["Laravel", "rd"], ["Stripe", "x"], ["AWS", "lx"]],
+      "fact": ["leadblizzard.com", "white-label SaaS"],
+      "tint": "bd",
+      "url": "https://leadblizzard.com"
+    },
+    {
+      "id": "klibot",
+      "name": "Klibot",
+      "icon": "icons/klibot.png",
+      "line": "AI assistant handling routine GoHighLevel work for agency teams.",
+      "status": "live",
+      "chips": [["AI agents", "x"], ["MCP", "bd"], ["GoHighLevel", "yt"]],
+      "fact": ["klibot.com", "agency AI assistant"],
+      "tint": "rd",
+      "url": "https://klibot.com"
+    },
+    {
+      "id": "sponir",
+      "name": "Sponir",
+      "icon": "icons/sponir.png",
+      "line": "AI-agent CRM for online sellers on Messenger, IG & WhatsApp.",
+      "status": "in the works",
+      "chips": [["AI agents", "x"], ["WhatsApp", "li"], ["Messenger", "lx"]],
+      "fact": ["sponir.com", "Tunisian e-commerce CRM"],
+      "tint": "li",
+      "url": "https://sponir.com"
+    }
+  ],
+  "more": [
+    {"name": "OwnMyCRM", "url": "https://ownmycrm.com", "note": "AI-agent-ready CRM"},
+    {"name": "GetGroupLeads", "url": "https://aymenlabidi.pro", "note": "~50k users"},
+    {"name": "Vision Aid AI Glasses", "url": "https://aymenlabidi.pro", "note": ""},
+    {"name": "Drone Detection", "url": "https://aymenlabidi.pro", "note": ""},
+    {"name": "Bionic Butterfly (ESP32)", "url": "https://aymenlabidi.pro", "note": ""}
+  ],
+  "showcase": {
+    "title": "Inside Jobly",
+    "chip": "open source · built in 14 days",
+    "items": [
+      {
+        "id": "dashboard",
+        "title": "Workflow & KPI Dashboard",
+        "caption": "Jobly · Requests & invoicing",
+        "image": "screens/dashboard.jpg",
+        "url": "https://github.com/aymenoppa/jobly"
+      },
+      {
+        "id": "quote",
+        "title": "Interactive Client Quotes",
+        "caption": "Jobly · Online signing",
+        "image": "screens/quote.jpg",
+        "url": "https://github.com/aymenoppa/jobly"
+      },
+      {
+        "id": "schedule",
+        "title": "Crew & Dispatch Schedule",
+        "caption": "Jobly · Week & map views",
+        "image": "screens/schedule.jpg",
+        "url": "https://github.com/aymenoppa/jobly"
+      }
+    ]
+  }
+}
